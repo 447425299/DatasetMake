@@ -11,6 +11,7 @@ bin/dso_dataset
 ## NOTE
 
 Line 609 in main_dso_pangolin.cpp is the "txt" text save path.
+
 Line 242, 243 in HessianBlocks.cpp are the patch image save patch.
 
 Please modify the path as needed.
